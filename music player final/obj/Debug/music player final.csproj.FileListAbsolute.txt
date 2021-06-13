@@ -1,0 +1,81 @@
+D:\visual studio project\music player final\music player final\bin\Debug\music player final.exe.config
+D:\visual studio project\music player final\music player final\bin\Debug\music player final.exe
+D:\visual studio project\music player final\music player final\bin\Debug\music player final.pdb
+D:\visual studio project\music player final\music player final\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\visual studio project\music player final\music player final\obj\Debug\music_player_final.Form1.resources
+D:\visual studio project\music player final\music player final\obj\Debug\music_player_final.Properties.Resources.resources
+D:\visual studio project\music player final\music player final\obj\Debug\music player final.csproj.GenerateResource.Cache
+D:\visual studio project\music player final\music player final\obj\Debug\music player final.exe
+D:\visual studio project\music player final\music player final\obj\Debug\music player final.pdb
+D:\visual studio project\music player final\music player final\obj\Debug\music player final.csprojResolveAssemblyReference.cache
+D:\visual studio project\music player final - Copy\music player final\bin\Debug\music player final.exe.config
+D:\visual studio project\music player final - Copy\music player final\obj\Debug\music player final.exe
+D:\visual studio project\music player final - Copy\music player final\obj\Debug\music player final.pdb
+D:\visual studio project\music player final - Copy\music player final\bin\Debug\music player final.exe
+D:\visual studio project\music player final - Copy\music player final\bin\Debug\music player final.pdb
+D:\visual studio project\music player final - Copy\music player final\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\visual studio project\music player final - Copy\music player final\obj\Debug\music player final.csprojResolveAssemblyReference.cache
+D:\visual studio project\music player final - Copy\music player final\obj\Debug\music_player_final.Form1.resources
+D:\visual studio project\music player final - Copy\music player final\obj\Debug\music_player_final.Properties.Resources.resources
+D:\visual studio project\music player final - Copy\music player final\obj\Debug\music player final.csproj.GenerateResource.Cache
+D:\visual studio project\music player final - Copy\music player final\bin\Debug\Interop.WMPLib.dll
+D:\visual studio project\music player final - Copy\music player final\bin\Debug\AxInterop.WMPLib.dll
+D:\visual studio project\music player final - Copy\music player final\obj\Debug\Interop.WMPLib.dll
+D:\visual studio project\music player final - Copy\music player final\obj\Debug\AxInterop.WMPLib.dll
+D:\visual studio project\music player final - Copy\music player final\obj\Debug\music player final.csproj.ResolveComReference.cache
+D:\visual studio project\music player final - Copy all things do - Copy\music player final\bin\Debug\music player final.exe.config
+D:\visual studio project\music player final - Copy all things do - Copy\music player final\obj\Debug\Interop.WMPLib.dll
+D:\visual studio project\music player final - Copy all things do - Copy\music player final\obj\Debug\AxInterop.WMPLib.dll
+D:\visual studio project\music player final - Copy all things do - Copy\music player final\obj\Debug\music player final.csproj.ResolveComReference.cache
+D:\visual studio project\music player final - Copy all things do - Copy\music player final\obj\Debug\music player final.exe
+D:\visual studio project\music player final - Copy all things do - Copy\music player final\obj\Debug\music player final.pdb
+D:\visual studio project\music player final - Copy all things do - Copy\music player final\bin\Debug\music player final.exe
+D:\visual studio project\music player final - Copy all things do - Copy\music player final\bin\Debug\music player final.pdb
+D:\visual studio project\music player final - Copy all things do - Copy\music player final\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\visual studio project\music player final - Copy all things do - Copy\music player final\bin\Debug\Interop.WMPLib.dll
+D:\visual studio project\music player final - Copy all things do - Copy\music player final\bin\Debug\AxInterop.WMPLib.dll
+D:\visual studio project\music player final - Copy all things do - Copy\music player final\obj\Debug\music_player_final.Form1.resources
+D:\visual studio project\music player final - Copy all things do - Copy\music player final\obj\Debug\music_player_final.Properties.Resources.resources
+D:\visual studio project\music player final - Copy all things do - Copy\music player final\obj\Debug\music player final.csproj.GenerateResource.Cache
+D:\visual studio project\music player final - Copy all things do - Copy\music player final\obj\Debug\music_player_final.shortcut.resources
+D:\visual studio project\music player final - Copy all things do - Copy\music player final\obj\Debug\music player final.csprojResolveAssemblyReference.cache
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\bin\Debug\music player final.exe.config
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\obj\Debug\Interop.WMPLib.dll
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\obj\Debug\AxInterop.WMPLib.dll
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\obj\Debug\music player final.csproj.ResolveComReference.cache
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\obj\Debug\music player final.exe
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\obj\Debug\music player final.pdb
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\bin\Debug\music player final.exe
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\bin\Debug\music player final.pdb
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\bin\Debug\Interop.WMPLib.dll
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\bin\Debug\AxInterop.WMPLib.dll
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\obj\Debug\music player final.csprojResolveAssemblyReference.cache
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\obj\Debug\music_player_final.Form1.resources
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\obj\Debug\music_player_final.Properties.Resources.resources
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\obj\Debug\music_player_final.shortcut.resources
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\obj\Debug\music player final.csproj.GenerateResource.Cache
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\bin\Debug\music player final.exe.manifest
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\bin\Debug\music player final.application
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\obj\Debug\music player final.exe.manifest
+D:\visual studio project\music player final - Copy all things do - Copy - Copy\music player final\obj\Debug\music player final.application
+D:\c# PROJECT\My complete project\Music Player\music player final\bin\Debug\music player final.exe.config
+D:\c# PROJECT\My complete project\Music Player\music player final\obj\Debug\Interop.WMPLib.dll
+D:\c# PROJECT\My complete project\Music Player\music player final\obj\Debug\AxInterop.WMPLib.dll
+D:\c# PROJECT\My complete project\Music Player\music player final\obj\Debug\music player final.csproj.ResolveComReference.cache
+D:\c# PROJECT\My complete project\Music Player\music player final\obj\Debug\music player final.exe
+D:\c# PROJECT\My complete project\Music Player\music player final\obj\Debug\music player final.pdb
+D:\c# PROJECT\My complete project\Music Player\music player final\bin\Debug\music player final.exe.manifest
+D:\c# PROJECT\My complete project\Music Player\music player final\bin\Debug\music player final.application
+D:\c# PROJECT\My complete project\Music Player\music player final\bin\Debug\music player final.exe
+D:\c# PROJECT\My complete project\Music Player\music player final\bin\Debug\music player final.pdb
+D:\c# PROJECT\My complete project\Music Player\music player final\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\c# PROJECT\My complete project\Music Player\music player final\bin\Debug\Interop.WMPLib.dll
+D:\c# PROJECT\My complete project\Music Player\music player final\bin\Debug\AxInterop.WMPLib.dll
+D:\c# PROJECT\My complete project\Music Player\music player final\obj\Debug\music player final.csprojResolveAssemblyReference.cache
+D:\c# PROJECT\My complete project\Music Player\music player final\obj\Debug\music_player_final.Form1.resources
+D:\c# PROJECT\My complete project\Music Player\music player final\obj\Debug\music_player_final.Properties.Resources.resources
+D:\c# PROJECT\My complete project\Music Player\music player final\obj\Debug\music_player_final.shortcut.resources
+D:\c# PROJECT\My complete project\Music Player\music player final\obj\Debug\music player final.csproj.GenerateResource.Cache
+D:\c# PROJECT\My complete project\Music Player\music player final\obj\Debug\music player final.exe.manifest
+D:\c# PROJECT\My complete project\Music Player\music player final\obj\Debug\music player final.application
